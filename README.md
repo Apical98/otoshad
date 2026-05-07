@@ -8,4 +8,4 @@ Full computer codes and data necessary to replicate the analyses and produce the
 
 ## References
 
-Pico-Calvo, A., & Nachón, D. J. (2026). Data and codes of the manuscript "Population-specific bycatch risks in two vulnerable anadromous clupeids: insights from otolith microchemistry" (V2.0). Zenodo. https://doi.org/10.5281/zenodo.15462157
+Pico-Calvo, A., & Nachón, D. J. (2026). Data and codes of the manuscript "Population-specific bycatch risks in two vulnerable anadromous clupeids: insights from otolith microchemistry" (V2.1). Zenodo. https://doi.org/10.5281/zenodo.15462157
